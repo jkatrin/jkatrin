@@ -1,4 +1,4 @@
-### Olá! Eu sou a Jéssica Katrin
+### Hi!
 
 <p>
 • ⚡ I'm currently learning Front end web development skills.<br>
