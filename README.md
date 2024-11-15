@@ -1,8 +1,8 @@
 ### Hi!
 
 <p>
-• ⚡ I'm currently learning Front end web development skills.<br>
-• 🎯 I’m focusing on ReactJS and Typescript.<br>
+• ⚡ I'm currently learning data analysis skills.<br>
+• 🎯 I’m focusing on Power BI and Python.<br>
 </p>
 
 <h4>Languages and Tools:</h4>
